@@ -14,3 +14,19 @@ Outlines:
 * ICCSM
 * McCumber Cube
 * Cyber War
+
+------------------------------------------
+
+## Wireless Technology and Standards
+ 
+### Instructor: Bogdan Doinea , Jean-Claude Mudilu
+### Course platform: Cisco
+Outlines:
+* Channel Band Wireless Standards
+* CSMA(CA)Transmission Process
+* CSMA(CD)
+* Higher Frequency ISM
+* LIFI MIFI Rogue
+* Modulation Technique
+* Standard MU-MIMO
+* Wireless Standards
